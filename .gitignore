@@ -1,0 +1,11 @@
+# Hugo
+/public/
+/resources/_gen/
+/hugo_build.lock
+
+# Optional - if you don't want to track theme development
+#/themes/*/
+
+# Environment files with secrets
+netlfly.toml
+.gitmodules
