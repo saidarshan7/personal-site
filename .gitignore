@@ -9,3 +9,4 @@
 # Environment files with secrets
 netlfly.toml
 .gitmodules
+/static/images

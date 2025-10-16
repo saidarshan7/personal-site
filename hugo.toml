@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "sdarshn.dev"
 languageCode = "en-us"
-title = "Ink"
+title = "sai d."
 theme = "hugo-ink"
 paginate = 5
 
@@ -14,10 +14,10 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
+	subtitle = "tinkerer, tragammatic pessimist and absolute learner"
 
 	# Optional 64x64 avatar image.
-	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+	avatar = "/images/phplumpkB_c1PM.jpg"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
