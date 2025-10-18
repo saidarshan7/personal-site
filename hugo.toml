@@ -36,8 +36,8 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Blogs"
-url = "/blogs"
+name = "All posts"
+url = "/posts"
 weight = 2
 
 [[menu.main]]
