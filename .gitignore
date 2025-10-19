@@ -2,7 +2,7 @@
 /public/
 /resources/_gen/
 /hugo_build.lock
-
+features.txt
 # Optional - if you don't want to track theme development
 #/themes/*/
 
@@ -10,3 +10,4 @@
 netlfly.toml
 .gitmodules
 /static/images
+
